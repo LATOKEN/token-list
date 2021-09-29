@@ -1,0 +1,32 @@
+{
+  "name": "Latoken",
+  "logoURI": "",
+  "keywords": [
+    "latoken",
+    "defi"
+  ],
+  "timestamp": "2021-09-29T15:11:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 41,
+      "address": "0x327B1fb4173308Ad6Eafc4a73Af2a6e61C15A87D",
+      "name": "LAtoken1",
+      "symbol": "LA1",
+      "decimals": 18,
+      "logoURI": ""
+    },
+    {
+      "chainId": 41,
+      "address": "0x5F7832A4e1Cc385af56365588ab621e2Dc586601",
+      "name": "LAtoken2",
+      "symbol": "LA2",
+      "decimals": 18,
+      "logoURI": ""
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
