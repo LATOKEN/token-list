@@ -8,7 +8,7 @@
   "timestamp": "2021-09-29T15:11:00.000+00:00",
   "tokens": [
     {
-      "chainId": 41,
+      "chainId": 27,
       "address": "0xA2739c52d8E48ec1FEB8442539fbAacd7Eff388D",
       "name": "LAtoken1",
       "symbol": "LA1",
@@ -16,7 +16,7 @@
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
     {
-      "chainId": 41,
+      "chainId": 27,
       "address": "0xa979319b504195BaEEEa2174Ec24B0aCCF48a0A8",
       "name": "LAtoken2",
       "symbol": "LA2",
