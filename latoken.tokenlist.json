@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 27,
-      "address": "0xA2739c52d8E48ec1FEB8442539fbAacd7Eff388D",
+      "address": "0xEE5Fc904571Cc697E1aCD1958168f483b48f05F1",
       "name": "LAtoken1",
       "symbol": "LA1",
       "decimals": 18,
@@ -17,7 +17,7 @@
     },
     {
       "chainId": 27,
-      "address": "0xa979319b504195BaEEEa2174Ec24B0aCCF48a0A8",
+      "address": "0x94C065413513Fc633cA9D198eD4A315D5D22aC2D",
       "name": "LAtoken2",
       "symbol": "LA2",
       "decimals": 18,
