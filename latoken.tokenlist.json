@@ -30,6 +30,22 @@
       "symbol": "SUSHI",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/sushitoken_32.png"
+    },
+    {
+      "chainId": 27,
+      "address": "0xd42cc459A959f54fF72295c93A3Ef242621d596e",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/token/images/wbtc_28.png?v=1"
+    },
+    {
+      "chainId": 27,
+      "address": "0x2414977B754B81A85966dF7A904dD778CE0FFeA5",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
     }
   ],
   "version": {
