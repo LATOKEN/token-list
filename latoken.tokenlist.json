@@ -8,40 +8,40 @@
   "timestamp": "2021-09-29T15:11:00.000+00:00",
   "tokens": [
     {
-      "chainId": 27,
-      "address": "0xEE5Fc904571Cc697E1aCD1958168f483b48f05F1",
+      "chainId": 26,
+      "address": "0xc10c2A6620B08FD2065871357BCD79c334de28ba",
       "name": "LAtoken1",
       "symbol": "LA1",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg"
     },
     {
-      "chainId": 27,
-      "address": "0x94C065413513Fc633cA9D198eD4A315D5D22aC2D",
+      "chainId": 26,
+      "address": "0xe13bADb751936462e975dfd67926F6536935A17F",
       "name": "LAtoken2",
       "symbol": "LA2",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/ctoken_usdc.svg"
     },
     {
-      "chainId": 27,
-      "address": "0x5F7832A4e1Cc385af56365588ab621e2Dc586601",
-      "name": "SushiToken",
-      "symbol": "SUSHI",
+      "chainId": 26,
+      "address": "0x4206E906BFcB1c80dF90FebF98C1F52707f3792f",
+      "name": "Wrapped ETH",
+      "symbol": "ETH",
       "decimals": 18,
-      "logoURI": "https://etherscan.io/token/images/sushitoken_32.png"
+      "logoURI": "https://etherscan.io/token/images/weth_28.png"
     },
     {
-      "chainId": 27,
-      "address": "0xd42cc459A959f54fF72295c93A3Ef242621d596e",
+      "chainId": 26,
+      "address": "0xbC7E53c7D14FA24052EA57354f38B5c637c4382b",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
       "logoURI": "https://etherscan.io/token/images/wbtc_28.png?v=1"
     },
     {
-      "chainId": 27,
-      "address": "0x2414977B754B81A85966dF7A904dD778CE0FFeA5",
+      "chainId": 26,
+      "address": "0xEc16D158977B8135538D6e2C5C747076395DEb57",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
