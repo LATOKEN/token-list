@@ -27,7 +27,7 @@
       "chainId": 26,
       "address": "0x4206E906BFcB1c80dF90FebF98C1F52707f3792f",
       "name": "Wrapped ETH",
-      "symbol": "ETH",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/weth_28.png"
     },
