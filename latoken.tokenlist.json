@@ -9,7 +9,7 @@
   "tokens": [
     {
       "chainId": 26,
-      "address": "0xc10c2A6620B08FD2065871357BCD79c334de28ba",
+      "address": "0xd6Bf053Be4901d3A0D46cE83Eed62c275262233C",
       "name": "LAtoken1",
       "symbol": "LA1",
       "decimals": 18,
@@ -17,7 +17,7 @@
     },
     {
       "chainId": 26,
-      "address": "0xe13bADb751936462e975dfd67926F6536935A17F",
+      "address": "0x6cC42943F49Fe7B3F7b77Bd78e42A2A3fc3AcC09",
       "name": "LAtoken2",
       "symbol": "LA2",
       "decimals": 18,
@@ -25,7 +25,7 @@
     },
     {
       "chainId": 26,
-      "address": "0x4206E906BFcB1c80dF90FebF98C1F52707f3792f",
+      "address": "0x867704CdE9452FD78A93C32ad61a4cc87389f7B5",
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
@@ -33,7 +33,7 @@
     },
     {
       "chainId": 26,
-      "address": "0xbC7E53c7D14FA24052EA57354f38B5c637c4382b",
+      "address": "0x5919f55521595E4729ed99598D159De70A4c4bc8",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
       "decimals": 8,
@@ -41,7 +41,7 @@
     },
     {
       "chainId": 26,
-      "address": "0xEc16D158977B8135538D6e2C5C747076395DEb57",
+      "address": "0x5D4dea0D214bFEC8B1A69619591c5bE6Cc4B89A4",
       "name": "USD Coin",
       "symbol": "USDC",
       "decimals": 6,
