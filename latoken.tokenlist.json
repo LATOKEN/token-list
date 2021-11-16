@@ -25,7 +25,7 @@
     },
     {
       "chainId": 26,
-      "address": "0x2A5399D3FCB65C08B739C45837F4e635551D4d77",
+      "address": "0x0D6F6985DB3B381ef4506657C1821F26A47b74e6",
       "name": "Wrapped ETH",
       "symbol": "WETH",
       "decimals": 18,
