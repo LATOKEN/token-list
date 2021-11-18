@@ -46,6 +46,14 @@
       "symbol": "USDC",
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/centre-usdc_28.png"
+    },
+    {
+      "chainId": 26,
+      "address": "0xc6f42474049ea87bB7A08Bc2f8A7cc3A827C47c8",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png"
     }
   ],
   "version": {
