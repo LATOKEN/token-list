@@ -33,6 +33,14 @@
     },
     {
       "chainId": 26,
+      "address": "0x2A5399D3FCB65C08B739C45837F4e635551D4d77",
+      "name": "Wrapped LA",
+      "symbol": "wLA",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png"
+    },
+    {
+      "chainId": 26,
       "address": "0xB526BaF258b8B25d3e951Cd8486dEb60aD013804",
       "name": "Wrapped BTC",
       "symbol": "WBTC",
