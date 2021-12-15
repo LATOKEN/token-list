@@ -1,10 +1,7 @@
 {
   "name": "Latoken",
   "logoURI": "https://cryptologos.cc/logos/latoken-la-logo.svg",
-  "keywords": [
-    "latoken",
-    "defi"
-  ],
+  "keywords": ["latoken", "defi"],
   "timestamp": "2021-09-29T15:11:00.000+00:00",
   "tokens": [
     {
@@ -25,6 +22,11 @@
           "chainId": 80001,
           "tokenSymbol": "LA1",
           "tokenAddress": "0x52610600Fe12E2aa2d8D5d0135a256a00230d147"
+        },
+        {
+          "chainId": 3,
+          "tokenSymbol": "LA1",
+          "tokenAddress": "0xBC32caa2d9612587A8fe617e9865f1C7352ae7A5"
         }
       ]
     },
@@ -46,6 +48,11 @@
           "chainId": 80001,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xADFA88c0e4500fa655795ed7a8bEef002798D570"
+        },
+        {
+          "chainId": 3,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xb40F6A9116EF3A82C02A8e81C305FaFC8e983055"
         }
       ]
     },
@@ -78,6 +85,22 @@
           "chainId": 97,
           "tokenSymbol": "BNB",
           "tokenAddress": "0x21B4402b23519544DABC96a5543EBE71e3FE2388"
+        }
+      ]
+    },
+    {
+      "address": "0xc4f76f223a578FF90Cc9472E1bf8Acfd3F37348b",
+      "chainId": 26,
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.pngs",
+      "name": "WETH",
+      "symbol": "WETH",
+      "resourceID": "0x00000000000000c4f76f223a578FF90Cc9472D0C3E67679Ef7c824f2d81B4C0F",
+      "swapTo": [
+        {
+          "chainId": 3,
+          "tokenSymbol": "ETH",
+          "tokenAddress": "0xd63d4b4371a84D0C3E67679Ef7c824f2d81B4C0F"
         }
       ]
     }
