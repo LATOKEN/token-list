@@ -88,14 +88,6 @@
       "symbol": "wLA",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png"
-    },
-    {
-      "chainId": 26,
-      "address": "0x788CE4c79fa4b37EBAb22e2480dD8d98D221c1b6",
-      "name": "Test USDT",
-      "symbol": "USDT",
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png"
     }
   ],
   "version": {
