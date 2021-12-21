@@ -15,7 +15,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WLA1",
+          "tokenSymbol": "wLA1",
           "tokenAddress": "0x952b6a5526E22926B849024996caF0c69F91C410"
         },
         {
@@ -41,7 +41,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WUSDT",
+          "tokenSymbol": "wUSDT",
           "tokenAddress": "0x00c9c737ab1ABD05F3aE4082b65F2DBef3275820"
         },
         {
@@ -67,7 +67,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WMATIC",
+          "tokenSymbol": "wMATIC",
           "tokenAddress": "0x4a88d234CDbad05f79D3f514ED7d7F84Bf48F310"
         }
       ]
@@ -83,7 +83,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WBNB",
+          "tokenSymbol": "wBNB",
           "tokenAddress": "0x3F5da89A3a3621DB535AA594114a795cCFe6b3B7"
         }
       ]
@@ -99,7 +99,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WLA1",
+          "tokenSymbol": "wLA1",
           "tokenAddress": "0x952b6a5526E22926B849024996caF0c69F91C410"
         },
         {
@@ -125,7 +125,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WUSDT",
+          "tokenSymbol": "wUSDT",
           "tokenAddress": "0x00c9c737ab1ABD05F3aE4082b65F2DBef3275820"
         },
         {
@@ -151,7 +151,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WLA1",
+          "tokenSymbol": "wLA1",
           "tokenAddress": "0x952b6a5526E22926B849024996caF0c69F91C410"
         },
         {
@@ -177,7 +177,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WUSDT",
+          "tokenSymbol": "wUSDT",
           "tokenAddress": "0x00c9c737ab1ABD05F3aE4082b65F2DBef3275820"
         },
         {
@@ -203,7 +203,7 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WETH",
+          "tokenSymbol": "wETH",
           "tokenAddress": "0xD9B800a96F296dbDe22ca01C0Bdd14B82FaE3f88"
         }
       ]
@@ -239,8 +239,8 @@
       "chainId": 26,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
-      "name": "WUSDT",
-      "symbol": "WUSDT",
+      "name": "wUSDT",
+      "symbol": "wUSDT",
       "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
       "swapTo": [
         {
@@ -265,8 +265,8 @@
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
-      "name": "WMATIC",
-      "symbol": "WMATIC",
+      "name": "wMATIC",
+      "symbol": "wMATIC",
       "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
       "swapTo": [
         {
@@ -281,8 +281,8 @@
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-      "name": "WBNB",
-      "symbol": "WBNB",
+      "name": "wBNB",
+      "symbol": "wBNB",
       "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
       "swapTo": [
         {
@@ -297,8 +297,8 @@
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
-      "name": "WETH",
-      "symbol": "WETH",
+      "name": "wETH",
+      "symbol": "wETH",
       "resourceID": "0x00000000000000c4f76f223a578FF90Cc9472D0C3E67679Ef7c824f2d81B4C0F",
       "swapTo": [
         {
