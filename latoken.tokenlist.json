@@ -307,6 +307,14 @@
           "tokenAddress": "0xd63d4b4371a84D0C3E67679Ef7c824f2d81B4C0F"
         }
       ]
+    },
+    {
+      "chainId": 26,
+      "address": "0x2A5399D3FCB65C08B739C45837F4e635551D4d77",
+      "name": "Wrapped LA",
+      "symbol": "wLA",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png"
     }
   ],
   "version": {
