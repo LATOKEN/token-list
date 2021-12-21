@@ -5,7 +5,7 @@
   "timestamp": "2021-12-13T11:16:33+00:00",
   "tokens": [
     {
-      "address": "0x52610600Fe12E2aa2d8D5d0135a256a00230d147",
+      "address": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a",
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
@@ -21,17 +21,17 @@
         {
           "chainId": 97,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0x5c637cc8Dc5a01432a8759E2C4E1bbe4A8C214f8"
+          "tokenAddress": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F"
         },
         {
           "chainId": 3,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0xBC32caa2d9612587A8fe617e9865f1C7352ae7A5"
+          "tokenAddress": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30"
         }
       ]
     },
     {
-      "address": "0xADFA88c0e4500fa655795ed7a8bEef002798D570",
+      "address": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E",
       "chainId": 80001,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -47,17 +47,17 @@
         {
           "chainId": 97,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0x7F36384C85714D1798C56a2309C4a8De0B4f0c2e"
+          "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
         },
         {
           "chainId": 3,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xb40F6A9116EF3A82C02A8e81C305FaFC8e983055"
+          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
         }
       ]
     },
     {
-      "address": "0x9802d96BF1961025e778420cc87BFaBAb72bB02F",
+      "address": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62",
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "address": "0x21B4402b23519544DABC96a5543EBE71e3FE2388",
+      "address": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
@@ -89,7 +89,7 @@
       ]
     },
     {
-      "address": "0x5c637cc8Dc5a01432a8759E2C4E1bbe4A8C214f8",
+      "address": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
@@ -105,17 +105,17 @@
         {
           "chainId": 80001,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0x52610600Fe12E2aa2d8D5d0135a256a00230d147"
+          "tokenAddress": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a"
         },
         {
           "chainId": 3,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0xBC32caa2d9612587A8fe617e9865f1C7352ae7A5"
+          "tokenAddress": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30"
         }
       ]
     },
     {
-      "address": "0x7F36384C85714D1798C56a2309C4a8De0B4f0c2e",
+      "address": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5",
       "chainId": 97,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -131,17 +131,17 @@
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xADFA88c0e4500fa655795ed7a8bEef002798D570"
+          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
         },
         {
           "chainId": 3,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xb40F6A9116EF3A82C02A8e81C305FaFC8e983055"
+          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
         }
       ]
     },
     {
-      "address": "0xBC32caa2d9612587A8fe617e9865f1C7352ae7A5",
+      "address": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30",
       "chainId": 3,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
@@ -157,17 +157,17 @@
         {
           "chainId": 80001,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0x52610600Fe12E2aa2d8D5d0135a256a00230d147"
+          "tokenAddress": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a"
         },
         {
           "chainId": 97,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0x5c637cc8Dc5a01432a8759E2C4E1bbe4A8C214f8"
+          "tokenAddress": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F"
         }
       ]
     },
     {
-      "address": "0xb40F6A9116EF3A82C02A8e81C305FaFC8e983055",
+      "address": "0xf8920543511F07174624dCfD92E7Ee9362915d0b",
       "chainId": 3,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -183,17 +183,17 @@
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xADFA88c0e4500fa655795ed7a8bEef002798D570"
+          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
         },
         {
           "chainId": 97,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0x7F36384C85714D1798C56a2309C4a8De0B4f0c2e"
+          "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
         }
       ]
     },
     {
-      "address": "0xd63d4b4371a84D0C3E67679Ef7c824f2d81B4C0F",
+      "address": "0x5c92F0d4A34F1D80ab7475F77fb05948E64ff8eb",
       "chainId": 3,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
@@ -220,17 +220,17 @@
         {
           "chainId": 97,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0x5c637cc8Dc5a01432a8759E2C4E1bbe4A8C214f8"
+          "tokenAddress": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F"
         },
         {
           "chainId": 80001,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0x52610600Fe12E2aa2d8D5d0135a256a00230d147"
+          "tokenAddress": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a"
         },
         {
           "chainId": 3,
           "tokenSymbol": "LA1",
-          "tokenAddress": "0xBC32caa2d9612587A8fe617e9865f1C7352ae7A5"
+          "tokenAddress": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30"
         }
       ]
     },
@@ -246,17 +246,17 @@
         {
           "chainId": 97,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0x7F36384C85714D1798C56a2309C4a8De0B4f0c2e"
+          "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
         },
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xADFA88c0e4500fa655795ed7a8bEef002798D570"
+          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
         },
         {
           "chainId": 3,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xb40F6A9116EF3A82C02A8e81C305FaFC8e983055"
+          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
         }
       ]
     },
@@ -272,7 +272,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "MATIC",
-          "tokenAddress": "0x9802d96BF1961025e778420cc87BFaBAb72bB02F"
+          "tokenAddress": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62"
         }
       ]
     },
@@ -288,7 +288,7 @@
         {
           "chainId": 97,
           "tokenSymbol": "BNB",
-          "tokenAddress": "0x21B4402b23519544DABC96a5543EBE71e3FE2388"
+          "tokenAddress": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62"
         }
       ]
     },
@@ -304,7 +304,7 @@
         {
           "chainId": 3,
           "tokenSymbol": "ETH",
-          "tokenAddress": "0xd63d4b4371a84D0C3E67679Ef7c824f2d81B4C0F"
+          "tokenAddress": "0x5c92F0d4A34F1D80ab7475F77fb05948E64ff8eb"
         }
       ]
     },
