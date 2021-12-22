@@ -12,6 +12,7 @@
       "name": "LA1",
       "symbol": "LA1",
       "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -38,6 +39,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -64,6 +66,7 @@
       "name": "MATIC",
       "symbol": "MATIC",
       "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -80,6 +83,7 @@
       "name": "BNB",
       "symbol": "BNB",
       "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -96,6 +100,7 @@
       "name": "LA1",
       "symbol": "LA1",
       "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -122,6 +127,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -148,6 +154,7 @@
       "name": "LA1",
       "symbol": "LA1",
       "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -174,6 +181,7 @@
       "name": "USDT",
       "symbol": "USDT",
       "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -200,6 +208,7 @@
       "name": "ETH",
       "symbol": "ETH",
       "resourceID": "0x00000000000000c4f76f223a578FF90Cc9472D0C3E67679Ef7c824f2d81B4C0F",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -216,6 +225,7 @@
       "name": "wLA1",
       "symbol": "wLA1",
       "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 97,
@@ -242,6 +252,7 @@
       "name": "wUSDT",
       "symbol": "wUSDT",
       "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 97,
@@ -268,6 +279,7 @@
       "name": "wMATIC",
       "symbol": "wMATIC",
       "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 80001,
@@ -284,6 +296,7 @@
       "name": "wBNB",
       "symbol": "wBNB",
       "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 97,
@@ -300,6 +313,7 @@
       "name": "wETH",
       "symbol": "wETH",
       "resourceID": "0x00000000000000c4f76f223a578FF90Cc9472D0C3E67679Ef7c824f2d81B4C0F",
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 3,
