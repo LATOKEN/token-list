@@ -76,7 +76,7 @@
       ]
     },
     {
-      "address": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62",
+      "address": "0x9802d96BF1961025e778420cc87BFaBAb72bB02F",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
@@ -301,7 +301,7 @@
         {
           "chainId": 97,
           "tokenSymbol": "BNB",
-          "tokenAddress": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62"
+          "tokenAddress": "0x9802d96BF1961025e778420cc87BFaBAb72bB02F"
         }
       ]
     },
