@@ -15,8 +15,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WLA1",
-          "tokenAddress": "0x952b6a5526E22926B849024996caF0c69F91C410"
+          "tokenSymbol": "wLA1",
+          "tokenAddress": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734"
         },
         {
           "chainId": 97,
@@ -41,8 +41,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WUSDT",
-          "tokenAddress": "0x00c9c737ab1ABD05F3aE4082b65F2DBef3275820"
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0x6fFd545dC8Df59BA9681b187ACA02fEDa432ba4e"
         },
         {
           "chainId": 97,
@@ -67,8 +67,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WMATIC",
-          "tokenAddress": "0x4a88d234CDbad05f79D3f514ED7d7F84Bf48F310"
+          "tokenSymbol": "wMATIC",
+          "tokenAddress": "0xA7c7b147C6e72d4eB26Ff5CeD7cE5856324f90d7"
         }
       ]
     },
@@ -83,8 +83,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WBNB",
-          "tokenAddress": "0x3F5da89A3a3621DB535AA594114a795cCFe6b3B7"
+          "tokenSymbol": "wBNB",
+          "tokenAddress": "0x89a2F3C030DC0293c1ee6E14350832b5465386A5"
         }
       ]
     },
@@ -99,8 +99,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WLA1",
-          "tokenAddress": "0x952b6a5526E22926B849024996caF0c69F91C410"
+          "tokenSymbol": "wLA1",
+          "tokenAddress": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734"
         },
         {
           "chainId": 80001,
@@ -125,8 +125,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WUSDT",
-          "tokenAddress": "0x00c9c737ab1ABD05F3aE4082b65F2DBef3275820"
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0x6fFd545dC8Df59BA9681b187ACA02fEDa432ba4e"
         },
         {
           "chainId": 80001,
@@ -151,8 +151,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WLA1",
-          "tokenAddress": "0x952b6a5526E22926B849024996caF0c69F91C410"
+          "tokenSymbol": "wLA1",
+          "tokenAddress": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734"
         },
         {
           "chainId": 80001,
@@ -177,8 +177,8 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WUSDT",
-          "tokenAddress": "0x00c9c737ab1ABD05F3aE4082b65F2DBef3275820"
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0x6fFd545dC8Df59BA9681b187ACA02fEDa432ba4e"
         },
         {
           "chainId": 80001,
@@ -203,13 +203,13 @@
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "WETH",
-          "tokenAddress": "0xD9B800a96F296dbDe22ca01C0Bdd14B82FaE3f88"
+          "tokenSymbol": "wETH",
+          "tokenAddress": "0x2538169b0147Ecc87d1C6b7899dB7a73F4493c6B"
         }
       ]
     },
     {
-      "address": "0x952b6a5526E22926B849024996caF0c69F91C410",
+      "address": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
@@ -235,12 +235,12 @@
       ]
     },
     {
-      "address": "0x00c9c737ab1ABD05F3aE4082b65F2DBef3275820",
+      "address": "0x6fFd545dC8Df59BA9681b187ACA02fEDa432ba4e",
       "chainId": 26,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
-      "name": "WUSDT",
-      "symbol": "WUSDT",
+      "name": "wUSDT",
+      "symbol": "wUSDT",
       "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
       "swapTo": [
         {
@@ -261,12 +261,12 @@
       ]
     },
     {
-      "address": "0x4a88d234CDbad05f79D3f514ED7d7F84Bf48F310",
+      "address": "0xA7c7b147C6e72d4eB26Ff5CeD7cE5856324f90d7",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
-      "name": "WMATIC",
-      "symbol": "WMATIC",
+      "name": "wMATIC",
+      "symbol": "wMATIC",
       "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
       "swapTo": [
         {
@@ -277,12 +277,12 @@
       ]
     },
     {
-      "address": "0x3F5da89A3a3621DB535AA594114a795cCFe6b3B7",
+      "address": "0x89a2F3C030DC0293c1ee6E14350832b5465386A5",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
-      "name": "WBNB",
-      "symbol": "WBNB",
+      "name": "wBNB",
+      "symbol": "wBNB",
       "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
       "swapTo": [
         {
@@ -293,12 +293,12 @@
       ]
     },
     {
-      "address": "0xD9B800a96F296dbDe22ca01C0Bdd14B82FaE3f88",
+      "address": "0x2538169b0147Ecc87d1C6b7899dB7a73F4493c6B",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
-      "name": "WETH",
-      "symbol": "WETH",
+      "name": "wETH",
+      "symbol": "wETH",
       "resourceID": "0x00000000000000c4f76f223a578FF90Cc9472D0C3E67679Ef7c824f2d81B4C0F",
       "swapTo": [
         {
