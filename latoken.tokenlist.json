@@ -213,8 +213,8 @@
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
-      "name": "WLA1",
-      "symbol": "WLA1",
+      "name": "wLA1",
+      "symbol": "wLA1",
       "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
       "swapTo": [
         {
