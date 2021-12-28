@@ -147,6 +147,23 @@
       ]
     },
     {
+      "address": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B",
+      "chainId": 3,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xE253cA95Be6C1942B85Bcb1B073b5367b5E668a6"
+        }
+      ]
+    },
+    {
       "address": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30",
       "chainId": 3,
       "decimals": 18,
@@ -197,6 +214,23 @@
           "chainId": 97,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
+        }
+      ]
+    },
+    {
+      "address": "0xE253cA95Be6C1942B85Bcb1B073b5367b5E668a6",
+      "chainId": 26,
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
+      "name": "wLA",
+      "symbol": "wLA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 3,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
         }
       ]
     },
