@@ -5,33 +5,6 @@
   "timestamp": "2021-12-13T11:16:33+00:00",
   "tokens": [
     {
-      "address": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a",
-      "chainId": 80001,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
-      "name": "LA1",
-      "symbol": "LA1",
-      "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
-      "isNative": false,
-      "swapTo": [
-        {
-          "chainId": 26,
-          "tokenSymbol": "wLA1",
-          "tokenAddress": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734"
-        },
-        {
-          "chainId": 97,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F"
-        },
-        {
-          "chainId": 3,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30"
-        }
-      ]
-    },
-    {
       "address": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E",
       "chainId": 80001,
       "decimals": 6,
@@ -59,14 +32,14 @@
       ]
     },
     {
-      "address": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62",
+      "address": "0x000",
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
       "name": "MATIC",
       "symbol": "MATIC",
       "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
-      "isNative": false,
+      "isNative": true,
       "swapTo": [
         {
           "chainId": 26,
@@ -76,46 +49,46 @@
       ]
     },
     {
-      "address": "0x9802d96BF1961025e778420cc87BFaBAb72bB02F",
+      "address": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483",
+      "chainId": 80001,
+      "decimals": 18,
+      "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xE253cA95Be6C1942B85Bcb1B073b5367b5E668a6"
+        },
+        {
+          "chainId": 97,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E"
+        },
+        {
+          "chainId": 3,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
+        }
+      ]
+    },
+    {
+      "address": "0x00",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
       "name": "BNB",
       "symbol": "BNB",
       "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
-      "isNative": false,
+      "isNative": true,
       "swapTo": [
         {
           "chainId": 26,
           "tokenSymbol": "wBNB",
           "tokenAddress": "0x89a2F3C030DC0293c1ee6E14350832b5465386A5"
-        }
-      ]
-    },
-    {
-      "address": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
-      "name": "LA1",
-      "symbol": "LA1",
-      "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
-      "isNative": false,
-      "swapTo": [
-        {
-          "chainId": 26,
-          "tokenSymbol": "wLA1",
-          "tokenAddress": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734"
-        },
-        {
-          "chainId": 80001,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a"
-        },
-        {
-          "chainId": 3,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30"
         }
       ]
     },
@@ -147,10 +120,10 @@
       ]
     },
     {
-      "address": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B",
-      "chainId": 3,
+      "address": "0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E",
+      "chainId": 97,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
+      "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
       "name": "LA",
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
@@ -160,33 +133,43 @@
           "chainId": 26,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xE253cA95Be6C1942B85Bcb1B073b5367b5E668a6"
+        },
+        {
+          "chainId": 80001,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483"
+        },
+        {
+          "chainId": 3,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
         }
       ]
     },
     {
-      "address": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30",
+      "address": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B",
       "chainId": 3,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
-      "name": "LA1",
-      "symbol": "LA1",
-      "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
+      "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "wLA1",
-          "tokenAddress": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xE253cA95Be6C1942B85Bcb1B073b5367b5E668a6"
         },
         {
           "chainId": 80001,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a"
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483"
         },
         {
-          "chainId": 97,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F"
+          "chainId":97,
+          "tokenSymbol":"LA",
+          "tokenAddress":"0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E"
         }
       ]
     },
@@ -218,31 +201,14 @@
       ]
     },
     {
-      "address": "0xE253cA95Be6C1942B85Bcb1B073b5367b5E668a6",
-      "chainId": 26,
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
-      "name": "wLA",
-      "symbol": "wLA",
-      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": false,
-      "swapTo": [
-        {
-          "chainId": 3,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
-        }
-      ]
-    },
-    {
-      "address": "0x5c92F0d4A34F1D80ab7475F77fb05948E64ff8eb",
+      "address": "0x00",
       "chainId": 3,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
       "name": "ETH",
       "symbol": "ETH",
       "resourceID": "0x00000000000000c4f76f223a578FF90Cc9472D0C3E67679Ef7c824f2d81B4C0F",
-      "isNative": false,
+      "isNative": true,
       "swapTo": [
         {
           "chainId": 26,
@@ -252,29 +218,29 @@
       ]
     },
     {
-      "address": "0xD3C17efd4cA8294b33a3764eDfFb7Bc0696c5734",
+      "address": "0xE253cA95Be6C1942B85Bcb1B073b5367b5E668a6",
       "chainId": 26,
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/compound-finance/token-list/master/assets/asset_ZRX.svg",
-      "name": "wLA1",
-      "symbol": "wLA1",
-      "resourceID": "0x00000000000000D63B2709A32E4a7dF0eAA162aa2d8D5d0135a256a00230d147",
+      "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
+      "name": "wLA",
+      "symbol": "wLA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 97,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0xE5EF9365F43bdd8C4d1bD161304d681e79Fb742F"
+          "chainId": 3,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
         },
         {
           "chainId": 80001,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0x0ed5871A386913D8E7CaEB68C0a17507fBE4383a"
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483"
         },
         {
-          "chainId": 3,
-          "tokenSymbol": "LA1",
-          "tokenAddress": "0x62103DFebCdce4CCE95aDa6C1932985bA8522E30"
+          "chainId": 97,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E"
         }
       ]
     },
@@ -318,7 +284,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "MATIC",
-          "tokenAddress": "0xe86C15Adb16FF35956DdB1aB548dA64006f89D62"
+          "tokenAddress": "0x00"
         }
       ]
     },
@@ -335,7 +301,7 @@
         {
           "chainId": 97,
           "tokenSymbol": "BNB",
-          "tokenAddress": "0x9802d96BF1961025e778420cc87BFaBAb72bB02F"
+          "tokenAddress": "0x00"
         }
       ]
     },
@@ -352,14 +318,14 @@
         {
           "chainId": 3,
           "tokenSymbol": "ETH",
-          "tokenAddress": "0x5c92F0d4A34F1D80ab7475F77fb05948E64ff8eb"
+          "tokenAddress": "0x00"
         }
       ]
     }
   ],
   "version": {
     "major": 1,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
