@@ -32,7 +32,7 @@
       ]
     },
     {
-      "address": "0x000",
+      "address": "0x544371Edb9ACE8E6F6Caf47FeDd25dF37605102E",
       "chainId": 80001,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
@@ -76,7 +76,7 @@
       ]
     },
     {
-      "address": "0x00",
+      "address": "0x8E350BfFB22104436c63F2Aa89482a99c1770640",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
@@ -201,7 +201,7 @@
       ]
     },
     {
-      "address": "0x00",
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
       "chainId": 3,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
@@ -284,7 +284,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "MATIC",
-          "tokenAddress": "0x00"
+          "tokenAddress": "0x544371Edb9ACE8E6F6Caf47FeDd25dF37605102E"
         }
       ]
     },
@@ -301,7 +301,7 @@
         {
           "chainId": 97,
           "tokenSymbol": "BNB",
-          "tokenAddress": "0x00"
+          "tokenAddress": "0x8E350BfFB22104436c63F2Aa89482a99c1770640"
         }
       ]
     },
@@ -318,7 +318,7 @@
         {
           "chainId": 3,
           "tokenSymbol": "ETH",
-          "tokenAddress": "0x00"
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
         }
       ]
     }
