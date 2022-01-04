@@ -61,7 +61,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wLA",
-          "tokenAddress": "0xaB43F6cEdB13Ca6701677a1323dbAD17C22F7F9a"
+          "tokenAddress": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357"
         },
         {
           "chainId": 97,
@@ -132,7 +132,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wLA",
-          "tokenAddress": "0xaB43F6cEdB13Ca6701677a1323dbAD17C22F7F9a"
+          "tokenAddress": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357"
         },
         {
           "chainId": 80001,
@@ -159,7 +159,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wLA",
-          "tokenAddress": "0xaB43F6cEdB13Ca6701677a1323dbAD17C22F7F9a"
+          "tokenAddress": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357"
         },
         {
           "chainId": 80001,
@@ -218,7 +218,7 @@
       ]
     },
     {
-      "address": "0xaB43F6cEdB13Ca6701677a1323dbAD17C22F7F9a",
+      "address": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
