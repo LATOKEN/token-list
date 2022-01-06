@@ -49,33 +49,6 @@
       ]
     },
     {
-      "address": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483",
-      "chainId": 80001,
-      "decimals": 18,
-      "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
-      "name": "LA",
-      "symbol": "LA",
-      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": false,
-      "swapTo": [
-        {
-          "chainId": 26,
-          "tokenSymbol": "wLA",
-          "tokenAddress": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357"
-        },
-        {
-          "chainId": 97,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E"
-        },
-        {
-          "chainId": 3,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
-        }
-      ]
-    },
-    {
       "address": "0x8E350BfFB22104436c63F2Aa89482a99c1770640",
       "chainId": 97,
       "decimals": 18,
@@ -120,33 +93,6 @@
       ]
     },
     {
-      "address": "0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E",
-      "chainId": 97,
-      "decimals": 18,
-      "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
-      "name": "LA",
-      "symbol": "LA",
-      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": false,
-      "swapTo": [
-        {
-          "chainId": 26,
-          "tokenSymbol": "wLA",
-          "tokenAddress": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357"
-        },
-        {
-          "chainId": 80001,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483"
-        },
-        {
-          "chainId": 3,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
-        }
-      ]
-    },
-    {
       "address": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B",
       "chainId": 3,
       "decimals": 18,
@@ -159,17 +105,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wLA",
-          "tokenAddress": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357"
-        },
-        {
-          "chainId": 80001,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483"
-        },
-        {
-          "chainId":97,
-          "tokenSymbol":"LA",
-          "tokenAddress":"0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E"
+          "tokenAddress": "0x7A5ABd892a8D334438e485e96062198053Cd3E95"
         }
       ]
     },
@@ -218,7 +154,7 @@
       ]
     },
     {
-      "address": "0x911E847a53E25D666cd1847c6C5fbA5174Bef357",
+      "address": "0x7A5ABd892a8D334438e485e96062198053Cd3E95",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
@@ -231,16 +167,6 @@
           "chainId": 3,
           "tokenSymbol": "LA",
           "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
-        },
-        {
-          "chainId": 80001,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x113eAB3cE3C8A37A347B0fFf8dff25e6dB03b483"
-        },
-        {
-          "chainId": 97,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0xBe8214978DB8bc79339308B5EA0AdEa7c1D8383E"
         }
       ]
     },
