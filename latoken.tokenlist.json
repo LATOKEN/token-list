@@ -17,7 +17,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wUSDT",
-          "tokenAddress": "0x69b32BFCB87f142Be84F1e4Ec9480e22812CeC51"
+          "tokenAddress": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA"
         },
         {
           "chainId": 97,
@@ -105,7 +105,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wUSDT",
-          "tokenAddress": "0x69b32BFCB87f142Be84F1e4Ec9480e22812CeC51"
+          "tokenAddress": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA"
         },
         {
           "chainId": 80001,
@@ -186,7 +186,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wUSDT",
-          "tokenAddress": "0x69b32BFCB87f142Be84F1e4Ec9480e22812CeC51"
+          "tokenAddress": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA"
         },
         {
           "chainId": 80001,
@@ -245,7 +245,7 @@
       ]
     },
     {
-      "address": "0x69b32BFCB87f142Be84F1e4Ec9480e22812CeC51",
+      "address": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA",
       "chainId": 26,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
