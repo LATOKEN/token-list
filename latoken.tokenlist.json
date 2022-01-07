@@ -17,7 +17,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wUSDT",
-          "tokenAddress": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA"
+          "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
         {
           "chainId": 97,
@@ -44,7 +44,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wMATIC",
-          "tokenAddress": "0xb0CD5e89F9cFCbaAC15e86E4b3697ee09A32fE24"
+          "tokenAddress": "0x4BcC21B83868Aa14cD2e7e27fF3995BDbC9a8173"
         }
       ]
     },
@@ -61,7 +61,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wBNB",
-          "tokenAddress": "0xe77dC729069BaE61Bc20bD3e05c470Fd80927785"
+          "tokenAddress": "0xD83fAF5C2aE5E1F96E104cc94ee1919BCbf25c46"
         }
       ]
     },
@@ -78,7 +78,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wUSDT",
-          "tokenAddress": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA"
+          "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
         {
           "chainId": 80001,
@@ -105,7 +105,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wLA",
-          "tokenAddress": "0x7A5ABd892a8D334438e485e96062198053Cd3E95"
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         }
       ]
     },
@@ -122,7 +122,7 @@
         {
           "chainId": 26,
           "tokenSymbol": "wUSDT",
-          "tokenAddress": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA"
+          "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
         {
           "chainId": 80001,
@@ -149,12 +149,12 @@
         {
           "chainId": 26,
           "tokenSymbol": "wETH",
-          "tokenAddress": "0x34B9796526CB22E4D8C3f01ef17BabD057c7Ec23"
+          "tokenAddress": "0xD6A510C5970eDEb09474373B1C250C2b06448E3F"
         }
       ]
     },
     {
-      "address": "0x7A5ABd892a8D334438e485e96062198053Cd3E95",
+      "address": "0xe66c9c4D573eDD86468F95F0B636719044708F92",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
@@ -171,7 +171,7 @@
       ]
     },
     {
-      "address": "0x07ABc2F5032B36DC20F5823dD0E6D7a229AB8bbA",
+      "address": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0",
       "chainId": 26,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -198,7 +198,7 @@
       ]
     },
     {
-      "address": "0xb0CD5e89F9cFCbaAC15e86E4b3697ee09A32fE24",
+      "address": "0x4BcC21B83868Aa14cD2e7e27fF3995BDbC9a8173",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "address": "0xe77dC729069BaE61Bc20bD3e05c470Fd80927785",
+      "address": "0xD83fAF5C2aE5E1F96E104cc94ee1919BCbf25c46",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "address": "0x34B9796526CB22E4D8C3f01ef17BabD057c7Ec23",
+      "address": "0xD6A510C5970eDEb09474373B1C250C2b06448E3F",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
