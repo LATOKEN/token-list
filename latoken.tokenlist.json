@@ -247,11 +247,106 @@
           "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
         }
       ]
+    },
+    {
+      "address": "0x5ce9084e8ADa946AF09200c80fbAbCb1245E477F",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
+      "name": "wETH",
+      "symbol": "wETH",
+      "resourceID": "0x00000000000000c4f76f223a578FF90Cc9472D0C3E67679Ef7c824f2d81B4C0F",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 3,
+          "tokenSymbol": "ETH",
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+        }
+      ]
+    },
+    {
+      "address": "0x9483bDd8e088a2241f20F9241eFa3e3F6288ee20",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
+      "name": "wBNB",
+      "symbol": "wBNB",
+      "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 97,
+          "tokenSymbol": "BNB",
+          "tokenAddress": "0x8E350BfFB22104436c63F2Aa89482a99c1770640"
+        }
+      ]
+    },
+    {
+      "address": "0xC9AE905f288A3A3591CA7eee328eEd1568C14F32",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
+      "name": "wMATIC",
+      "symbol": "wMATIC",
+      "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 80001,
+          "tokenSymbol": "MATIC",
+          "tokenAddress": "0x544371Edb9ACE8E6F6Caf47FeDd25dF37605102E"
+        }
+      ]
+    },
+    {
+      "address": "0x32D2b9bBCf25525b8D7E92CBAB14Ca1a5f347B14",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "name": "wUSDT",
+      "symbol": "wUSDT",
+      "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 97,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
+        },
+        {
+          "chainId": 80001,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+        },
+        {
+          "chainId": 3,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+        }
+      ]
+    },
+    {
+      "address": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://btcmanager.com/wp-content/uploads/2019/05/uAeBzThE.jpg",
+      "name": "wLA",
+      "symbol": "wLA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 3,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
+        }
+      ]
     }
   ],
   "version": {
-    "major": 1,
-    "minor": 3,
+    "major": 2,
+    "minor": 0,
     "patch": 0
   }
 }
