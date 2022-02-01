@@ -68,7 +68,7 @@
     {
       "address": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5",
       "chainId": 97,
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
       "name": "USDT",
       "symbol": "USDT",
