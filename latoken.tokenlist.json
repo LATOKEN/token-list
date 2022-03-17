@@ -28,6 +28,11 @@
           "chainId": 3,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+        },
+        {
+          "chainId": 43113,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -89,6 +94,11 @@
           "chainId": 3,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+        },
+        {
+          "chainId": 43113,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -133,6 +143,43 @@
           "chainId": 97,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
+        },
+        {
+          "chainId": 3,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+        }
+      ]
+    },
+    {
+      "address": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6",
+      "chainId": 43113,
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "name": "USDT",
+      "symbol": "USDT",
+      "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
+        },
+        {
+          "chainId": 80001,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+        },
+        {
+          "chainId": 97,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
+        },
+        {
+          "chainId": 43113,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -194,6 +241,11 @@
           "chainId": 3,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+        },
+        {
+          "chainId": 43113,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
