@@ -201,6 +201,23 @@
       ]
     },
     {
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
+      "chainId": 43113,
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/03/Avalanche_logo_without_text.png",
+      "name": "AVAX",
+      "symbol": "AVAX",
+      "resourceID": "0x84821854532a24387d49c7c6ce1bf51bedaad1d1bc26ed9b6cc916e3da629b54",
+      "isNative": true,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wAVAX",
+          "tokenAddress": "0xdafE358d80583aCE8B35593E409010103E52B8Cf"
+        }
+      ]
+    },
+    {
       "address": "0xe66c9c4D573eDD86468F95F0B636719044708F92",
       "chainId": 26,
       "decimals": 18,
@@ -263,6 +280,23 @@
           "chainId": 80001,
           "tokenSymbol": "MATIC",
           "tokenAddress": "0x544371Edb9ACE8E6F6Caf47FeDd25dF37605102E"
+        }
+      ]
+    },
+    {
+      "address": "0xdafE358d80583aCE8B35593E409010103E52B8Cf",
+      "chainId": 26,
+      "decimals": 18,
+      "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/03/Avalanche_logo_without_text.png",
+      "name": "wAVAX",
+      "symbol": "wAVAX",
+      "resourceID": "0x84821854532a24387d49c7c6ce1bf51bedaad1d1bc26ed9b6cc916e3da629b54",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 43113,
+          "tokenSymbol": "AVAX",
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
         }
       ]
     },
