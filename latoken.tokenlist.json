@@ -145,9 +145,9 @@
           "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
         },
         {
-          "chainId": 3,
+          "chainId": 43113,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -177,9 +177,9 @@
           "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
         },
         {
-          "chainId": 43113,
+          "chainId": 3,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
+          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
         }
       ]
     },
