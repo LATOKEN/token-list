@@ -33,6 +33,11 @@
           "chainId": 43113,
           "tokenSymbol": "USDT",
           "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
+        },
+        {
+          "chainId": 4002,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -99,6 +104,11 @@
           "chainId": 43113,
           "tokenSymbol": "USDT",
           "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
+        },
+        {
+          "chainId": 4002,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -148,6 +158,11 @@
           "chainId": 43113,
           "tokenSymbol": "USDT",
           "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
+        },
+        {
+          "chainId": 4002,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -180,6 +195,11 @@
           "chainId": 3,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+        },
+        {
+          "chainId": 4002,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
         }
       ]
     },
@@ -263,6 +283,48 @@
           "chainId": 43113,
           "tokenSymbol": "USDT",
           "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
+        },
+        {
+          "chainId": 4002,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
+        }
+      ]
+    },
+    {
+      "address": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6",
+      "chainId": 4002,
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "name": "wUSDT",
+      "symbol": "wUSDT",
+      "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 97,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xAC752a527E772b9a4b9B66442a008Fd761ad97e5"
+        },
+        {
+          "chainId": 80001,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+        },
+        {
+          "chainId": 3,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xf8920543511F07174624dCfD92E7Ee9362915d0b"
+        },
+        {
+          "chainId": 43113,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
+        },
+        {
+          "chainId": 26,
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         }
       ]
     },
@@ -331,6 +393,40 @@
           "chainId": 3,
           "tokenSymbol": "ETH",
           "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+        }
+      ]
+    },
+    {
+      "address": "0x988B9783Bd015f71A3B71E84fD48fC757B77E3B5",
+      "chainId": 26,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=022",
+      "name": "wFTM",
+      "symbol": "wFTM",
+      "resourceID": "0x6974f87e4417ba4d92341828774bd465ac5b40116269fc072263efa0c3926cc5",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 4002,
+          "tokenSymbol": "FTM",
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+        }
+      ]
+    },
+    {
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
+      "chainId": 4002,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.png?v=022",
+      "name": "FTM",
+      "symbol": "FTM",
+      "resourceID": "0x6974f87e4417ba4d92341828774bd465ac5b40116269fc072263efa0c3926cc5",
+      "isNative": true,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wFTM",
+          "tokenAddress": "0x988B9783Bd015f71A3B71E84fD48fC757B77E3B5"
         }
       ]
     }
