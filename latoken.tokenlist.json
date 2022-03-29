@@ -5,7 +5,7 @@
   "timestamp": "2021-12-13T11:16:33+00:00",
   "tokens": [
     {
-      "address": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E",
+      "address": "0xBD21A10F619BE90d6066c941b04e340841F1F989",
       "chainId": 80001,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -93,7 +93,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+          "tokenAddress": "0xBD21A10F619BE90d6066c941b04e340841F1F989"
         },
         {
           "chainId": 3,
@@ -147,7 +147,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+          "tokenAddress": "0xBD21A10F619BE90d6066c941b04e340841F1F989"
         },
         {
           "chainId": 97,
@@ -184,7 +184,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+          "tokenAddress": "0xBD21A10F619BE90d6066c941b04e340841F1F989"
         },
         {
           "chainId": 97,
@@ -272,7 +272,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+          "tokenAddress": "0xBD21A10F619BE90d6066c941b04e340841F1F989"
         },
         {
           "chainId": 3,
@@ -309,7 +309,7 @@
         {
           "chainId": 80001,
           "tokenSymbol": "USDT",
-          "tokenAddress": "0xB37E0Fdf7CE53fEa4d1F463212e0bE454787488E"
+          "tokenAddress": "0xBD21A10F619BE90d6066c941b04e340841F1F989"
         },
         {
           "chainId": 3,
