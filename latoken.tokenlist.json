@@ -913,7 +913,42 @@
           "tokenAddress": "0x06744F65DD82e2ff34447d6e981850e31c6cC8c5"
         }
       ]
-    }
+    },
+    {
+      "address": "0xdc3EdF32bEF6011a4AE779Cb8e519a197C434608",
+      "chainId": 3,
+      "decimals": 8,
+      "logoURI": "https:///Users/soloway2010/balancer-bridge/src/service/price-fetcher/fetcher.goetherscan.io/images/main/empty-token.png",
+      "name": "WEOWNS",
+      "symbol": "WEOWNS",
+      "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
+      "isNative": false,
+      "hasSlider": false,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wWEOWNS",
+          "tokenAddress": "0x46073B6D54DaaADE518912bb13aB62441b3Ef1A0"
+        }
+      ]
+    },
+    {
+      "address": "0x46073B6D54DaaADE518912bb13aB62441b3Ef1A0",
+      "chainId": 26,
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "name": "wWEOWNS",
+      "symbol": "wWEOWNS",
+      "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 3,
+          "tokenSymbol": "WEOWNS",
+          "tokenAddress": "0xdc3EdF32bEF6011a4AE779Cb8e519a197C434608"
+        }
+      ]
+    },
   ],
   "version": {
     "major": 1,
