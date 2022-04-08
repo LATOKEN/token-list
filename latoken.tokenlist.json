@@ -918,7 +918,7 @@
       "address": "0xdc3EdF32bEF6011a4AE779Cb8e519a197C434608",
       "chainId": 3,
       "decimals": 8,
-      "logoURI": "https:///Users/soloway2010/balancer-bridge/src/service/price-fetcher/fetcher.goetherscan.io/images/main/empty-token.png",
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
       "name": "WEOWNS",
       "symbol": "WEOWNS",
       "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
