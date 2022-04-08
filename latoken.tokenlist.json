@@ -928,12 +928,12 @@
         {
           "chainId": 26,
           "tokenSymbol": "wWEOWNS",
-          "tokenAddress": "0x46073B6D54DaaADE518912bb13aB62441b3Ef1A0"
+          "tokenAddress": "0xe3fAf28928949D7538B7FA91295f00Cd1edC06C3"
         }
       ]
     },
     {
-      "address": "0x46073B6D54DaaADE518912bb13aB62441b3Ef1A0",
+      "address": "0xe3fAf28928949D7538B7FA91295f00Cd1edC06C3",
       "chainId": 26,
       "decimals": 8,
       "logoURI": "https://etherscan.io/images/main/empty-token.png",
