@@ -84,6 +84,26 @@
           "chainId": 43114,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
         }
       ]
     },
@@ -133,6 +153,26 @@
           "chainId": 43114,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
         }
       ]
     },
@@ -199,6 +239,26 @@
           "chainId": 43114,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
         }
       ]
     },
@@ -231,6 +291,26 @@
           "chainId": 43114,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
         }
       ]
     },
@@ -263,6 +343,234 @@
           "chainId": 1,
           "tokenSymbol": "USDT",
           "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
+        }
+      ]
+    },
+    {
+      "address": "0x049d68029688eabf473097a2fc38ef61633a3c7a",
+      "chainId": 250,
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "name": "USDT",
+      "symbol": "USDT",
+      "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0x32D2b9bBCf25525b8D7E92CBAB14Ca1a5f347B14"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x55d398326f99059ff775485246999027b3197955"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
+        }
+      ]
+    },
+    {
+      "address": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9",
+      "chainId": 42161,
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "name": "USDT",
+      "symbol": "USDT",
+      "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0x32D2b9bBCf25525b8D7E92CBAB14Ca1a5f347B14"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x55d398326f99059ff775485246999027b3197955"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
+        }
+      ]
+    },
+    {
+      "address": "0xa71edc38d189767582c38a3145b5873052c3e47a",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "name": "USDT",
+      "symbol": "USDT",
+      "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0x32D2b9bBCf25525b8D7E92CBAB14Ca1a5f347B14"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x55d398326f99059ff775485246999027b3197955"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
+        }
+      ]
+    },
+    {
+      "address": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f",
+      "chainId": 1666600000,
+      "decimals": 6,
+      "logoURI": "https://etherscan.io/token/images/tether_32.png",
+      "name": "USDT",
+      "symbol": "USDT",
+      "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wUSDT",
+          "tokenAddress": "0x32D2b9bBCf25525b8D7E92CBAB14Ca1a5f347B14"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x55d398326f99059ff775485246999027b3197955"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "USDT",
+          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
         }
       ]
     },
@@ -331,6 +639,142 @@
           "chainId": 25,
           "tokenSymbol": "wLA",
           "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        }
+      ]
+    },
+    {
+      "address": "0x8c2E35a5825Ab407d2718402D15fFa8ec6D19acf",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg",
+      "name": "wFTM",
+      "symbol": "wFTM",
+      "resourceID": "0x6974f87e4417ba4d92341828774bd465ac5b40116269fc072263efa0c3926cc5",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 250,
+          "tokenSymbol": "FTM",
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+        }
+      ]
+    },
+    {
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg",
+      "name": "FTM",
+      "symbol": "FTM",
+      "resourceID": "0x6974f87e4417ba4d92341828774bd465ac5b40116269fc072263efa0c3926cc5",
+      "isNative": true,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wFTM",
+          "tokenAddress": "0x8c2E35a5825Ab407d2718402D15fFa8ec6D19acf"
+        }
+      ]
+    },
+    {
+      "address": "0x32DdEb2Cdd43eEF559d4B328cB14798E3C669215",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://offchainlabs.com/wp-content/themes/offchain/images/home/arbitrum/arbirtum_logo.svg",
+      "name": "wARB",
+      "symbol": "wARB",
+      "resourceID": "0x268b0e671d168c69ae90250d1dd7598e8cc92001ecc3ba5b24035b36456901c7",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 42161,
+          "tokenSymbol": "ARB",
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+        }
+      ]
+    },
+    {
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://offchainlabs.com/wp-content/themes/offchain/images/home/arbitrum/arbirtum_logo.svg",
+      "name": "ARB",
+      "symbol": "ARB",
+      "resourceID": "0x268b0e671d168c69ae90250d1dd7598e8cc92001ecc3ba5b24035b36456901c7",
+      "isNative": true,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wARB",
+          "tokenAddress": "0x32DdEb2Cdd43eEF559d4B328cB14798E3C669215"
+        }
+      ]
+    },
+    {
+      "address": "0x20098F3A577fDb334FfBA2A128617664622eCBd6",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/huobi-token-ht-logo.svg",
+      "name": "wHT",
+      "symbol": "wHT",
+      "resourceID": "0x46484e811889546f286b1e72fb32e3f23fb57ffc2b4a443a96ce38043ed310f0",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 128,
+          "tokenSymbol": "HT",
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+        }
+      ]
+    },
+    {
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/huobi-token-ht-logo.svg",
+      "name": "HT",
+      "symbol": "HT",
+      "resourceID": "0x46484e811889546f286b1e72fb32e3f23fb57ffc2b4a443a96ce38043ed310f0",
+      "isNative": true,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wHT",
+          "tokenAddress": "0x20098F3A577fDb334FfBA2A128617664622eCBd6"
+        }
+      ]
+    },
+    {
+      "address": "0xC224866E0d39AC2d104Dd28F6398F3548ae0f318",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/harmony-one-logo.svg",
+      "name": "wONE",
+      "symbol": "wONE",
+      "resourceID": "0xef640759c780c1446ea60312ed24543ba9c9d00153d64a6ea360bee834774cfc",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "ONE",
+          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+        }
+      ]
+    },
+    {
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
+      "chainId": 1666600000,
+      "decimals": 18,
+      "logoURI": "https://cryptologos.cc/logos/harmony-one-logo.svg",
+      "name": "ONE",
+      "symbol": "ONE",
+      "resourceID": "0xef640759c780c1446ea60312ed24543ba9c9d00153d64a6ea360bee834774cfc",
+      "isNative": true,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wONE",
+          "tokenAddress": "0xC224866E0d39AC2d104Dd28F6398F3548ae0f318"
         }
       ]
     }
