@@ -118,9 +118,44 @@
       "isNative": false,
       "swapTo": [
         {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
           "chainId": 1,
           "tokenSymbol": "LA",
           "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
         }
       ]
     },
@@ -639,6 +674,405 @@
           "chainId": 25,
           "tokenSymbol": "wLA",
           "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
+        }
+      ]
+    },
+    {
+      "address": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85",
+      "chainId": 137,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
+        }
+      ]
+    },
+    {
+      "address": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
+        }
+      ]
+    },
+    {
+      "address": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a",
+      "chainId": 43114,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
+        }
+      ]
+    },
+    {
+      "address": "0x998De69785e60D953700D6293b53540539f6991e",
+      "chainId": 250,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
+        }
+      ]
+    },
+    {
+      "address": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681",
+      "chainId": 42161,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
+        }
+      ]
+    },
+    {
+      "address": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac",
+      "chainId": 128,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 1666600000,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5"
+        }
+      ]
+    },
+    {
+      "address": "0xdcfc88276e0ae400956fb9ba92641d37c00073a5",
+      "chainId": 1666600000,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
+      "name": "LA",
+      "symbol": "LA",
+      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0x3a898D596840C6B6b586d722bFAdCC8c4761BF41"
+        },
+        {
+          "chainId": 1,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0xe50365f5d679cb98a1dd62d6f6e58e59321bcddf"
+        },
+        {
+          "chainId": 137,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x17d09EB02D369Ceef3347d4426ff1b6e46F2aD85"
+        },
+        {
+          "chainId": 56,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x494aD295ca4b8beC1d89cea200b95062b0dCDD7f"
+        },
+        {
+          "chainId": 43114,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x7f1b5d039F873e4B703E2D0a09B4bbcE287BF14a"
+        },
+        {
+          "chainId": 250,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x998De69785e60D953700D6293b53540539f6991e"
+        },
+        {
+          "chainId": 42161,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x2Ae3Fe98985C982cC8156fF8BAecD6D7cb003681"
+        },
+        {
+          "chainId": 128,
+          "tokenSymbol": "LA",
+          "tokenAddress": "0x0179Cbd5A27A068cDB1c88AD336BabA1a23A03ac"
         }
       ]
     },
