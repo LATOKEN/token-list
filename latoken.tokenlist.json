@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@soloway2010 
-LATOKEN
-/
-token-list
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-token-list/latoken.tokenlist.json
-@soloway2010
-soloway2010 Update latoken.tokenlist.json
-Latest commit e1a9ed5 2 days ago
- History
- 2 contributors
-@soloway2010@arout2
-1494 lines (1494 sloc)  44.9 KB
-   
 {
   "name": "Latoken",
   "logoURI": "https://cryptologos.cc/logos/latoken-la-logo.svg",
