@@ -161,6 +161,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -218,6 +219,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -275,6 +277,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -332,6 +335,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -389,6 +393,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -446,6 +451,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -503,6 +509,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -560,6 +567,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -617,6 +625,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
@@ -814,14 +823,14 @@
       ]
     },
     {
-      "address": "0xe66c9c4D573eDD86468F95F0B636719044708F92",
+      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
-      "name": "wLA",
-      "symbol": "wLA",
+      "name": "LA",
+      "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": false,
+      "isNative": true,
       "swapTo": [
         {
           "chainId": 3,
@@ -871,14 +880,14 @@
       ]
     },
     {
-      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
+      "address": "0xe66c9c4D573eDD86468F95F0B636719044708F92",
       "chainId": 26,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
-      "name": "LA",
-      "symbol": "LA",
+      "name": "wLA",
+      "symbol": "wLA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": true,
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 3,
