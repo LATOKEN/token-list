@@ -161,12 +161,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 80001,
@@ -219,12 +218,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -277,12 +275,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -335,12 +332,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -393,12 +389,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -451,12 +446,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -509,12 +503,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -567,12 +560,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -625,12 +617,11 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
+          "tokenSymbol": "wLA",
+          "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
           "chainId": 3,
@@ -821,7 +812,7 @@
           "tokenAddress": "0xdafE358d80583aCE8B35593E409010103E52B8Cf"
         }
       ]
-    }
+    },
     {
       "address": "0xe66c9c4D573eDD86468F95F0B636719044708F92",
       "chainId": 26,
