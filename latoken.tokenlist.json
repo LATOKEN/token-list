@@ -1,3 +1,33 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@soloway2010 
+LATOKEN
+/
+token-list
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+token-list/latoken.tokenlist.json
+@soloway2010
+soloway2010 Update latoken.tokenlist.json
+Latest commit e1a9ed5 2 days ago
+ History
+ 2 contributors
+@soloway2010@arout2
+1494 lines (1494 sloc)  44.9 KB
+   
 {
   "name": "Latoken",
   "logoURI": "https://cryptologos.cc/logos/latoken-la-logo.svg",
@@ -161,11 +191,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -219,11 +248,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -277,11 +305,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -335,11 +362,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -393,11 +419,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -451,11 +476,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -509,11 +533,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -567,11 +590,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -625,11 +647,10 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
-          "tokenSymbol": "LA",
+          "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
         {
@@ -830,7 +851,7 @@
       "name": "wLA",
       "symbol": "wLA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": true,
+      "isNative": false,
       "swapTo": [
         {
           "chainId": 3,
