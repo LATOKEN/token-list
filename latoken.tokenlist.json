@@ -823,63 +823,6 @@
       ]
     },
     {
-      "address": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78",
-      "chainId": 26,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
-      "name": "LA",
-      "symbol": "LA",
-      "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": true,
-      "swapTo": [
-        {
-          "chainId": 3,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x57Af8a18eC1642cC2285C04EF40504B7863C2B0B"
-        },
-        {
-          "chainId": 80001,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6"
-        },
-        {
-          "chainId": 97,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x5b58954d166027A623549b8e995Aa820F9Ac0040"
-        },
-        {
-          "chainId": 43113,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x713B9CE41C9d8a44D166Ec85217aFB5F7278eb9D"
-        },
-        {
-          "chainId": 4002,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0xCAf9D60035D9a8aDfc6C35E0FE512cfbCb803797"
-        },
-        {
-          "chainId": 338,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0xdeF7AC83Ca1B7Ab30eEdB3355614cf20Dca380d4"
-        },
-        {
-          "chainId": 421611,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0xEE3e1a5E564A36e5B0aDB35461d1d50F7710570b"
-        },
-        {
-          "chainId": 256,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0x108f77FC337626628026e54b75F65D9A9aEd5607"
-        },
-        {
-          "chainId": 1666700000,
-          "tokenSymbol": "LA",
-          "tokenAddress": "0xda59D6043A4f9Bf78b3a2c11BaE2C4D3B1aeAc88"
-        }
-      ]
-    },
-    {
       "address": "0xe66c9c4D573eDD86468F95F0B636719044708F92",
       "chainId": 26,
       "decimals": 18,
@@ -887,7 +830,7 @@
       "name": "wLA",
       "symbol": "wLA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
-      "isNative": false,
+      "isNative": true,
       "swapTo": [
         {
           "chainId": 3,
