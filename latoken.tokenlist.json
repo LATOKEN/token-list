@@ -625,6 +625,7 @@
       "symbol": "LA",
       "resourceID": "0x5d9633ae98cc9ce999df86a069470e931d590bc7f34d0abca36bfeb5f0d9113a",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 26,
