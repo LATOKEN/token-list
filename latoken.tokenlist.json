@@ -1222,6 +1222,40 @@
       ]
     },
     {
+      "address": "0x9e836E426202fa3021a949900ed317f005Cb7c01",
+      "chainId": 26,
+      "decimals": 6,
+      "logoURI": "https://ftmscan.com/token/images/USDC_32.png",
+      "name": "wUSDC",
+      "symbol": "wUSDC",
+      "resourceID": "0xee3fd77e3319e0d115b822df4fcb3da3bfc7d405b2670c9d851c82e998af4a94",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 4002,
+          "tokenSymbol": "USDC",
+          "tokenAddress": "0x4e909a634a7361bAE0B55A5538c92835617FB1A9"
+        }
+      ]
+    },
+    {
+      "address": "0x4e909a634a7361bAE0B55A5538c92835617FB1A9",
+      "chainId": 4002,
+      "decimals": 6,
+      "logoURI": "https://ftmscan.com/token/images/USDC_32.png",
+      "name": "USDC",
+      "symbol": "USDC",
+      "resourceID": "0xee3fd77e3319e0d115b822df4fcb3da3bfc7d405b2670c9d851c82e998af4a94",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wUSDC",
+          "tokenAddress": "0x9e836E426202fa3021a949900ed317f005Cb7c01"
+        }
+      ]
+    },
+    {
       "address": "0x4BcC21B83868Aa14cD2e7e27fF3995BDbC9a8173",
       "chainId": 26,
       "decimals": 18,
