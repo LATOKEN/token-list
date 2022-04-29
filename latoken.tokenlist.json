@@ -1256,6 +1256,40 @@
       ]
     },
     {
+      "address": "0x35E473f4d14afb192c451a6C9427F70691100148",
+      "chainId": 43113,
+      "decimals": 6,
+      "logoURI": "hhttps://snowtrace.io/token/images/wormholeust_32.png",
+      "name": "UST",
+      "symbol": "UST",
+      "resourceID": "0x17db706c60b84bb206efc8347bcdc52c0db6e986d09b9e18f6fac2c4a60f86e3",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 26,
+          "tokenSymbol": "wUST",
+          "tokenAddress": "0xf8B90De239956452aFb8D79bee2F5068c5A6b9b9"
+        }
+      ]
+    },
+    {
+      "address": "0xf8B90De239956452aFb8D79bee2F5068c5A6b9b9",
+      "chainId": 26,
+      "decimals": 6,
+      "logoURI": "https://snowtrace.io/token/images/wormholeust_32.png",
+      "name": "wUST",
+      "symbol": "wUST",
+      "resourceID": "0x17db706c60b84bb206efc8347bcdc52c0db6e986d09b9e18f6fac2c4a60f86e3",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 43113,
+          "tokenSymbol": "UST",
+          "tokenAddress": "0x35E473f4d14afb192c451a6C9427F70691100148"
+        }
+      ]
+    },
+    {
       "address": "0x4BcC21B83868Aa14cD2e7e27fF3995BDbC9a8173",
       "chainId": 26,
       "decimals": 18,
