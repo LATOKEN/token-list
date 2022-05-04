@@ -1211,6 +1211,41 @@
           "tokenAddress": "0xC224866E0d39AC2d104Dd28F6398F3548ae0f318"
         }
       ]
+    },
+    {
+      "address": "0x81EfA5503C9e71CB0FE938268E266F5bDB028689",
+      "chainId": 1,
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "name": "WEOWNS",
+      "symbol": "WEOWNS",
+      "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
+      "isNative": false,
+      "swapTo": [
+        {
+          "chainId": 25,
+          "tokenSymbol": "wWEOWNS",
+          "tokenAddress": "0x31c0Df1c03F533093fcb2bd6ca126224AC7e1482"
+        }
+      ]
+    },
+    {
+      "address": "0x31c0Df1c03F533093fcb2bd6ca126224AC7e1482",
+      "chainId": 25,
+      "decimals": 8,
+      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "name": "wWEOWNS",
+      "symbol": "wWEOWNS",
+      "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
+      "isNative": false,
+      "hasSlider": false,
+      "swapTo": [
+        {
+          "chainId": 1,
+          "tokenSymbol": "WEOWNS",
+          "tokenAddress": "0x81EfA5503C9e71CB0FE938268E266F5bDB028689"
+        }
+      ]
     }
   ],
   "version": {
