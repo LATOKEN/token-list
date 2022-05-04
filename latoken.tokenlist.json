@@ -1221,6 +1221,7 @@
       "symbol": "WEOWNS",
       "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
       "isNative": false,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 25,
@@ -1238,7 +1239,6 @@
       "symbol": "wWEOWNS",
       "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
       "isNative": false,
-      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 1,
