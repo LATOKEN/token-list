@@ -15,7 +15,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -72,7 +72,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wMATIC",
           "tokenAddress": "0x4BcC21B83868Aa14cD2e7e27fF3995BDbC9a8173"
         }
@@ -89,7 +89,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wBNB",
           "tokenAddress": "0xD83fAF5C2aE5E1F96E104cc94ee1919BCbf25c46"
         }
@@ -106,7 +106,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -164,7 +164,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -222,7 +222,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -280,7 +280,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -338,7 +338,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -396,7 +396,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -454,7 +454,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -512,7 +512,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -570,7 +570,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -628,7 +628,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wLA",
           "tokenAddress": "0xe66c9c4D573eDD86468F95F0B636719044708F92"
         },
@@ -685,7 +685,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -742,7 +742,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -799,7 +799,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wETH",
           "tokenAddress": "0xD6A510C5970eDEb09474373B1C250C2b06448E3F"
         }
@@ -816,7 +816,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wAVAX",
           "tokenAddress": "0xdafE358d80583aCE8B35593E409010103E52B8Cf"
         }
@@ -824,7 +824,7 @@
     },
     {
       "address": "0xe66c9c4D573eDD86468F95F0B636719044708F92",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2090.png",
       "name": "wLA",
@@ -881,7 +881,7 @@
     },
     {
       "address": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
       "name": "wUSDT",
@@ -947,7 +947,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -1004,7 +1004,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -1061,7 +1061,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -1118,7 +1118,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -1175,7 +1175,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDT",
           "tokenAddress": "0xf469f806B1168474DB5a0dc7fa36aeCbCDB7e7b0"
         },
@@ -1223,7 +1223,7 @@
     },
     {
       "address": "0x9e836E426202fa3021a949900ed317f005Cb7c01",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 6,
       "logoURI": "https://ftmscan.com/token/images/USDC_32.png",
       "name": "wUSDC",
@@ -1249,7 +1249,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUSDC",
           "tokenAddress": "0x9e836E426202fa3021a949900ed317f005Cb7c01"
         }
@@ -1266,7 +1266,7 @@
       "isNative": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wUST",
           "tokenAddress": "0xf8B90De239956452aFb8D79bee2F5068c5A6b9b9"
         }
@@ -1274,7 +1274,7 @@
     },
     {
       "address": "0xf8B90De239956452aFb8D79bee2F5068c5A6b9b9",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 6,
       "logoURI": "https://snowtrace.io/token/images/wormholeust_32.png",
       "name": "wUST",
@@ -1291,7 +1291,7 @@
     },
     {
       "address": "0x4BcC21B83868Aa14cD2e7e27fF3995BDbC9a8173",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
       "name": "wMATIC",
@@ -1308,7 +1308,7 @@
     },
     {
       "address": "0xdafE358d80583aCE8B35593E409010103E52B8Cf",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/en/0/03/Avalanche_logo_without_text.png",
       "name": "wAVAX",
@@ -1325,7 +1325,7 @@
     },
     {
       "address": "0xD83fAF5C2aE5E1F96E104cc94ee1919BCbf25c46",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
       "name": "wBNB",
@@ -1342,7 +1342,7 @@
     },
     {
       "address": "0xD6A510C5970eDEb09474373B1C250C2b06448E3F",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png",
       "name": "wETH",
@@ -1359,7 +1359,7 @@
     },
     {
       "address": "0x988B9783Bd015f71A3B71E84fD48fC757B77E3B5",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/fantom-ftm-logo.svg",
       "name": "wFTM",
@@ -1385,7 +1385,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wFTM",
           "tokenAddress": "0x988B9783Bd015f71A3B71E84fD48fC757B77E3B5"
         }
@@ -1393,7 +1393,7 @@
     },
     {
       "address": "0x4070b63dF3Ed8DCe7e1DdDCB14D7C5d75A23af1A",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/crypto-com-coin-cro-logo.svg",
       "name": "wTCRO",
@@ -1419,7 +1419,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wTCRO",
           "tokenAddress": "0x4070b63dF3Ed8DCe7e1DdDCB14D7C5d75A23af1A"
         }
@@ -1427,7 +1427,7 @@
     },
     {
       "address": "0x9E42116783e5C67c56eCbcECC26CB19240Df6D32",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://offchainlabs.com/wp-content/themes/offchain/images/home/arbitrum/arbirtum_logo.svg",
       "name": "wARB",
@@ -1453,7 +1453,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wARB",
           "tokenAddress": "0x9E42116783e5C67c56eCbcECC26CB19240Df6D32"
         }
@@ -1461,7 +1461,7 @@
     },
     {
       "address": "0xE93424619dbdc47Ff6E3E695eAc229CBC7224B9B",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/huobi-token-ht-logo.svg",
       "name": "wHT",
@@ -1487,7 +1487,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wHT",
           "tokenAddress": "0xE93424619dbdc47Ff6E3E695eAc229CBC7224B9B"
         }
@@ -1495,7 +1495,7 @@
     },
     {
       "address": "0x06744F65DD82e2ff34447d6e981850e31c6cC8c5",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 18,
       "logoURI": "https://cryptologos.cc/logos/harmony-one-logo.svg",
       "name": "wONE",
@@ -1521,7 +1521,7 @@
       "isNative": true,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wONE",
           "tokenAddress": "0x06744F65DD82e2ff34447d6e981850e31c6cC8c5"
         }
@@ -1539,7 +1539,7 @@
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 26,
+          "chainId": 226,
           "tokenSymbol": "wWEOWNS",
           "tokenAddress": "0xe3fAf28928949D7538B7FA91295f00Cd1edC06C3"
         }
@@ -1547,7 +1547,7 @@
     },
     {
       "address": "0xe3fAf28928949D7538B7FA91295f00Cd1edC06C3",
-      "chainId": 26,
+      "chainId": 226,
       "decimals": 8,
       "logoURI": "https://etherscan.io/images/main/empty-token.png",
       "name": "wWEOWNS",
