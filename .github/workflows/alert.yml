@@ -1,0 +1,42 @@
+name: Token List
+
+on:
+  push:
+    branches:
+      - master
+      - test
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Chooose Chain Env
+      id: chain-env
+      run: |
+          if [[ "${{ github.ref_name }}" == "master" ]]; then
+            echo '::set-output name=ENVIRONMENT::mainnet'
+          elif [[ "${{ github.ref_name }}" == "test" ]]; then
+            echo '::set-output name=ENVIRONMENT::testnet'
+          fi
+    - name: Send release message to slack chat
+      id: slack
+      if: ${{ steps.chain-env.outputs.ENVIRONMENT != '' }}
+      uses: slackapi/slack-github-action@v1.19.0
+      with:
+        payload: |
+          {
+            "text": "Token list in ${{ steps.chain-env.outputs.ENVIRONMENT }} was updated by ${{ github.actor }}",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "Token list in ${{ steps.chain-env.outputs.ENVIRONMENT }} was updated by ${{ github.actor }}"
+                }
+              }
+            ]
+          }
+      env:
+        SLACK_WEBHOOK_URL: ${{ github.ref_name == 'master' && secrets.TOKEN_SLACK_WEBHOOK_URL || secrets.TEST_TOKEN_SLACK_WEBHOOK_URL }}
+        SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
