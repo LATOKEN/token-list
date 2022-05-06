@@ -14,9 +14,10 @@ jobs:
     - name: Chooose Chain Env
       id: chain-env
       run: |
-          if [[ "${{ github.ref_name }}" == "master" ]]; then
+          # this is not a mistake test - mainnet and master - testnet
+          if [[ "${{ github.ref_name }}" == "test" ]]; then
             echo '::set-output name=ENVIRONMENT::mainnet'
-          elif [[ "${{ github.ref_name }}" == "test" ]]; then
+          elif [[ "${{ github.ref_name }}" == "main" ]]; then
             echo '::set-output name=ENVIRONMENT::testnet'
           fi
     - name: Send release message to slack chat
@@ -38,5 +39,5 @@ jobs:
             ]
           }
       env:
-        SLACK_WEBHOOK_URL: ${{ github.ref_name == 'master' && secrets.TOKEN_SLACK_WEBHOOK_URL || secrets.TEST_TOKEN_SLACK_WEBHOOK_URL }}
+        SLACK_WEBHOOK_URL: ${{ github.ref_name == 'test' && secrets.TOKEN_SLACK_WEBHOOK_URL || secrets.TEST_TOKEN_SLACK_WEBHOOK_URL }}
         SLACK_WEBHOOK_TYPE: INCOMING_WEBHOOK
