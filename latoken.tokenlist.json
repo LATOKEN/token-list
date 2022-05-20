@@ -1757,14 +1757,14 @@
       "chainId": 226,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/svg/Profile-Logo.svg",
-      "name": "wOP",
-      "symbol": "wOP",
+      "name": "wOPETH",
+      "symbol": "wOPETH",
       "resourceID": "0xe017209828f775770d858acaf21d972bf52cb393a3c4523df41984634fe6e560",
       "isNative": false,
       "swapTo": [
         {
           "chainId": 69,
-          "tokenSymbol": "OP",
+          "tokenSymbol": "OPETH",
           "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
         }
       ]
@@ -1774,14 +1774,14 @@
       "chainId": 69,
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/svg/Profile-Logo.svg",
-      "name": "OP",
-      "symbol": "OP",
+      "name": "OPETH",
+      "symbol": "OPETH",
       "resourceID": "0xe017209828f775770d858acaf21d972bf52cb393a3c4523df41984634fe6e560",
       "isNative": true,
       "swapTo": [
         {
           "chainId": 226,
-          "tokenSymbol": "wOP",
+          "tokenSymbol": "wOPETH",
           "tokenAddress": "0x26c97F17Ab2cEC2Fb1a6F20d5c03Bd4c73822d5E"
         }
       ]
