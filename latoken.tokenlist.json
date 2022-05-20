@@ -1115,14 +1115,14 @@
       "chainId": 25,
       "decimals": 18,
       "logoURI": "https://offchainlabs.com/wp-content/themes/offchain/images/home/arbitrum/arbirtum_logo.svg",
-      "name": "wARB",
-      "symbol": "wARB",
+      "name": "wARBETH",
+      "symbol": "wARBETH",
       "resourceID": "0x268b0e671d168c69ae90250d1dd7598e8cc92001ecc3ba5b24035b36456901c7",
       "isNative": false,
       "swapTo": [
         {
           "chainId": 42161,
-          "tokenSymbol": "ARB",
+          "tokenSymbol": "ARBETH",
           "tokenAddress": "0x1De054e70DE4a66F66708a88D7234fEa78Cced78"
         }
       ]
@@ -1132,14 +1132,14 @@
       "chainId": 42161,
       "decimals": 18,
       "logoURI": "https://offchainlabs.com/wp-content/themes/offchain/images/home/arbitrum/arbirtum_logo.svg",
-      "name": "ARB",
-      "symbol": "ARB",
+      "name": "ARBETH",
+      "symbol": "ARBETH",
       "resourceID": "0x268b0e671d168c69ae90250d1dd7598e8cc92001ecc3ba5b24035b36456901c7",
       "isNative": true,
       "swapTo": [
         {
           "chainId": 25,
-          "tokenSymbol": "wARB",
+          "tokenSymbol": "wARBETH",
           "tokenAddress": "0x32DdEb2Cdd43eEF559d4B328cB14798E3C669215"
         }
       ]
