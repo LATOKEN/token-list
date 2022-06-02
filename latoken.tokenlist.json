@@ -354,41 +354,6 @@
       "resourceID": "0x000000000000001903eb5D26Aa73D863E9B53B880c9Aeff27A1d40d334095f77",
       "isNative": false,
       "swapTo": [
-        {
-          "chainId": 137,
-          "tokenSymbol": "USDT",
-          "tokenAddress": "0xc2132d05d31c914a87c6611c10748aeb04b58e8f"
-        },
-        {
-          "chainId": 56,
-          "tokenSymbol": "USDT",
-          "tokenAddress": "0x55d398326f99059ff775485246999027b3197955"
-        },
-        {
-          "chainId": 1,
-          "tokenSymbol": "USDT",
-          "tokenAddress": "0xdac17f958d2ee523a2206206994597c13d831ec7"
-        },
-        {
-          "chainId": 250,
-          "tokenSymbol": "USDT",
-          "tokenAddress": "0x049d68029688eabf473097a2fc38ef61633a3c7a"
-        },
-        {
-          "chainId": 42161,
-          "tokenSymbol": "USDT",
-          "tokenAddress": "0xfd086bc7cd5c481dcc9c85ebe478a1c0b69fcbb9"
-        },
-        {
-          "chainId": 128,
-          "tokenSymbol": "USDT",
-          "tokenAddress": "0xa71edc38d189767582c38a3145b5873052c3e47a"
-        },
-        {
-          "chainId": 1666600000,
-          "tokenSymbol": "USDT",
-          "tokenAddress": "0x3c2b8be99c50593081eaa2a724f0b8285f5aba8f"
-        }
       ]
     },
     {
