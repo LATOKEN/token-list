@@ -1044,6 +1044,7 @@
       "symbol": "ARBETH",
       "resourceID": "0x268b0e671d168c69ae90250d1dd7598e8cc92001ecc3ba5b24035b36456901c7",
       "isNative": true,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 225,
@@ -1078,6 +1079,7 @@
       "symbol": "HT",
       "resourceID": "0x46484e811889546f286b1e72fb32e3f23fb57ffc2b4a443a96ce38043ed310f0",
       "isNative": true,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 225,
@@ -1112,6 +1114,7 @@
       "symbol": "ONE",
       "resourceID": "0xef640759c780c1446ea60312ed24543ba9c9d00153d64a6ea360bee834774cfc",
       "isNative": true,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 225,
