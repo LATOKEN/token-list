@@ -1206,6 +1206,7 @@
       "symbol": "CRO",
       "resourceID": "0xf3c4f354c0d83ba1d7c6ad0304b7105bc298ec38afd3ffe7939a00af9d6e3cb1",
       "isNative": true,
+      "hasSlider": false,
       "swapTo": [
         {
           "chainId": 225,
