@@ -1216,20 +1216,16 @@
       ]
     },
     {
-      "address": "0xe3fAf28928949D7538B7FA91295f00Cd1edC06C3",
-      "chainId": 26,
+      "address": "0x31c0Df1c03F533093fcb2bd6ca126224AC7e1482",
+      "chainId": 25,
       "decimals": 8,
-      "logoURI": "https://etherscan.io/images/main/empty-token.png",
+      "logoURI": "https://st3.latoken.com/cms2/uploads/WEOWN_e0fae82116.jpg",
       "name": "wWEOWNS",
       "symbol": "wWEOWNS",
       "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
       "isNative": false,
       "swapTo": [
-        {
-          "chainId": 3,
-          "tokenSymbol": "WEOWNS",
-          "tokenAddress": "0xdc3EdF32bEF6011a4AE779Cb8e519a197C434608"
-        }
+        
       ]
     }
   ],
