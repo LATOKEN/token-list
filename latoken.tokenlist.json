@@ -855,7 +855,7 @@
       ]
     },
     {
-      "address": "0xcBdF0e2B5ba5Ea433f6104818fd7B98d75Be7968",
+      "address": "0xCA99529Cf1C4F2a8FD9F7bee5b9a32e4db294F3F",
       "chainId": 69,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -1137,7 +1137,7 @@
       ]
     },
     {
-      "address": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6",
+      "address": "0xb8589f8b234f1C18699aeF844e76888D84E5a8C3",
       "chainId": 4002,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -1199,7 +1199,7 @@
       ]
     },
     {
-      "address": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6",
+      "address": "0x0a29944d5b807F6b1aaf4e1A167E51C929e1a169",
       "chainId": 338,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -1261,7 +1261,7 @@
       ]
     },
     {
-      "address": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6",
+      "address": "0x3c1a276A1555866d322bD326d51A64f7F07315e2",
       "chainId": 421611,
       "decimals": 6,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
@@ -1323,7 +1323,7 @@
       ]
     },
     {
-      "address": "0x2f6009bCB8581cA8247F7A6786d6984D537B98D6",
+      "address": "0xCe12a2A2B193f8Dae77504451574234061B21549",
       "chainId": 256,
       "decimals": 18,
       "logoURI": "https://etherscan.io/token/images/tether_32.png",
