@@ -1789,7 +1789,7 @@
     {
       "address": "0x442e70a71f4cD244ce62cC3e391Bb71617b3e97b",
       "chainId": 226,
-      "decimals": 8,
+      "decimals": 6,
       "logoURI": "https://st3.latoken.com/cms2/uploads/WEOWN_e0fae82116.jpg",
       "name": "wWEOWNS",
       "symbol": "wWEOWNS",
