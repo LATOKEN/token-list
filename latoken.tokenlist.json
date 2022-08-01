@@ -73,7 +73,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
       "name": "MATIC",
       "symbol": "MATIC",
-      "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
+      "resourceID": "0x000000000000000000000000000000000000000000006d7463546f6b656e2d4d",
       "isNative": true,
       "swapTo": [
         {
@@ -90,7 +90,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
       "name": "BNB",
       "symbol": "BNB",
-      "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
+      "resourceID": "0x00000000000000000000000000000000000000000000626e62546f6b656e2d42",
       "isNative": true,
       "swapTo": [
         {
@@ -1521,7 +1521,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png",
       "name": "wMATIC",
       "symbol": "wMATIC",
-      "resourceID": "0x000000000000000506F638421d1478FEE8c58025e778420cc87BFaBAb72bB02F",
+      "resourceID": "0x000000000000000000000000000000000000000000006d7463546f6b656e2d4d",
       "isNative": false,
       "swapTo": [
         {
@@ -1555,7 +1555,7 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/200x200/1839.png",
       "name": "wBNB",
       "symbol": "wBNB",
-      "resourceID": "0x00000000000000e6d7DC99370DD5589E2ACF3544DABC96a5543EBE71e3FE2388",
+      "resourceID": "0x00000000000000000000000000000000000000000000626e62546f6b656e2d42",
       "isNative": false,
       "swapTo": [
         {
