@@ -1137,6 +1137,7 @@
       "resourceID": "0x268b0e671d168c69ae90250d1dd7598e8cc92001ecc3ba5b24035b36456901c7",
       "isNative": true,
       "hasSlider": false,
+      "ticker": "ETH",
       "swapTo": [
         {
           "chainId": 225,
