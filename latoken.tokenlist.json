@@ -1676,6 +1676,7 @@
       "symbol": "ARBETH",
       "resourceID": "0x268b0e671d168c69ae90250d1dd7598e8cc92001ecc3ba5b24035b36456901c7",
       "isNative": true,
+      "ticker": "ETH",
       "swapTo": [
         {
           "chainId": 226,
@@ -1778,6 +1779,7 @@
       "symbol": "OPETH",
       "resourceID": "0xe017209828f775770d858acaf21d972bf52cb393a3c4523df41984634fe6e560",
       "isNative": true,
+      "ticker": "ETH",
       "swapTo": [
         {
           "chainId": 226,
