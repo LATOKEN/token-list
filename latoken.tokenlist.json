@@ -1217,18 +1217,18 @@
       ]
     },
     {
-      "address": "0x81EfA5503C9e71CB0FE938268E266F5bDB028689",
+      "address": "0x6beF2D4e5F0D4f8309126b72C4760382Be25f82f",
       "chainId": 1,
       "decimals": 8,
       "logoURI": "https://st3.latoken.com/cms2/uploads/WEOWN_e0fae82116.jpg",
-      "name": "WEOWNS",
+      "name": "New WEOWNS",
       "symbol": "WEOWNS",
       "resourceID": "0x9521197e3ea8d9e8aa16de7d5943baa19e98414a0c5a4eba6ad414c9a0a106a9",
       "isNative": false,
       "hasSlider": false,
       "swapTo": [
         {
-          "chainId": 25,
+          "chainId": 225,
           "tokenSymbol": "wWEOWNS",
           "tokenAddress": "0x31c0Df1c03F533093fcb2bd6ca126224AC7e1482"
         }
@@ -1246,8 +1246,8 @@
       "swapTo": [
         {
           "chainId": 1,
-          "tokenSymbol": "WEOWNS",
-          "tokenAddress": "0x81EfA5503C9e71CB0FE938268E266F5bDB028689"
+          "tokenSymbol": "New WEOWNS",
+          "tokenAddress": "0x6beF2D4e5F0D4f8309126b72C4760382Be25f82f"
         }
       ]
     }
