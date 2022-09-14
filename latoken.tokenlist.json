@@ -1215,41 +1215,6 @@
           "tokenAddress": "0xb487287d7738641F1E6D6B09BE61faAe01560f6a"
         }
       ]
-    },
-    {
-      "address": "0x6dC95dd4D3aDb089c9a1884C469E7433a60C21De",
-      "chainId": 1,
-      "decimals": 8,
-      "logoURI": "https://st3.latoken.com/cms2/uploads/WEOWN_e0fae82116.jpg",
-      "name": "WEOWNS Token",
-      "symbol": "WEOWNS",
-      "resourceID": "0x0dc68336f7f1dfd5c4b3068465d4208b8896a5f1a76df72b3a1f228c15d96f8b",
-      "isNative": false,
-      "hasSlider": false,
-      "swapTo": [
-        {
-          "chainId": 225,
-          "tokenSymbol": "wWEOWNS",
-          "tokenAddress": "0x3f2C5Fb32C69dF4E6b03202f87024B42A049F436"
-        }
-      ]
-    },
-    {
-      "address": "0x3f2C5Fb32C69dF4E6b03202f87024B42A049F436",
-      "chainId": 225,
-      "decimals": 8,
-      "logoURI": "https://st3.latoken.com/cms2/uploads/WEOWN_e0fae82116.jpg",
-      "name": "Wrapped WEOWNS",
-      "symbol": "wWEOWNS",
-      "resourceID": "0x0dc68336f7f1dfd5c4b3068465d4208b8896a5f1a76df72b3a1f228c15d96f8b",
-      "isNative": false,
-      "swapTo": [
-        {
-          "chainId": 1,
-          "tokenSymbol": "WEOWNS",
-          "tokenAddress": "0x6dC95dd4D3aDb089c9a1884C469E7433a60C21De"
-        }
-      ]
     }
   ],
   "version": {
